@@ -11,11 +11,12 @@ language is used for developing the AI virtual mouse system, and also, OpenCV wh
 library for computer vision is used in the AI virtual mouse system. 
 
 # Pre-requisites
-Python: (3.6 - 3.8.5)
+Python: (3.6 - 3.8.5.
+
 Anaconda Distribution.
 
 # Procedure
-git clone https://github.com/Janavikachi/Virtual_mouse.git
+'git clone https://github.com/Janavikachi/Virtual_mouse.git'
 
 Step 1:
 open anaconda cmd
