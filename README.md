@@ -5,8 +5,10 @@ Python: (3.6 - 3.8.5)
 Anaconda Distribution.
 
 Procedure
+git clone https://github.com/Janavikachi/Virtual_mouse.git
 
 Step 1:
+open anaconda cmd
 
 conda create --name gest python=3.8.5
 
