@@ -10,11 +10,11 @@ operations and scrolling function and also move the cursor with it.Python progra
 language is used for developing the AI virtual mouse system, and also, OpenCV which is the 
 library for computer vision is used in the AI virtual mouse system. 
 
-*Pre-requisites
+# Pre-requisites
 Python: (3.6 - 3.8.5)
 Anaconda Distribution.
 
-Procedure
+# Procedure
 git clone https://github.com/Janavikachi/Virtual_mouse.git
 
 Step 1:
