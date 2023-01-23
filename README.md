@@ -17,7 +17,7 @@ library for computer vision is used in the AI virtual mouse system.
   
   ### Procedure
   ```bash
-  git clone https://github.com/xenon-19/Gesture-Controlled-Virtual-Mouse.git
+  git clone https://github.com/Janavikachi/Virtual_mouse.git
   ```
   For detailed information about cloning visit [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository).
   
