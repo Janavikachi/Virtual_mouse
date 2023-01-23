@@ -48,7 +48,7 @@ library for computer vision is used in the AI virtual mouse system.
   ``` 
   cd to the GitHub Repo till src folder
   ```
-  Command may look like: `cd C:\Users\.....\Gesture-Controlled-Virtual-Mouse\src`
+  Command may look like: `cd C:\Users\.....\Virtual-Mouse-main\src`
   
   Step 6:
   
